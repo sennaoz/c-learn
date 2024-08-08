@@ -11,12 +11,15 @@ namespace Giraffe
         static void Main(string[] args)
         {
 
-            Console.WriteLine("    /|");
-            Console.WriteLine("   / |");
-            Console.WriteLine("  /  |");
-            Console.WriteLine(" /   |");
-            Console.WriteLine("/____|");
+            string characterName = "Sena";
+            int characterAge = 19;
+            Console.WriteLine("There once was a woman named " + characterName);
+            Console.WriteLine("She was " + characterAge + " years old");
+            Console.WriteLine("She realy liked the name " + characterName);
+            Console.WriteLine("But didn't kike being " + characterAge);
+
             Console.ReadLine();
         }
+
     }
 }
