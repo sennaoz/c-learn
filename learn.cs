@@ -11,7 +11,7 @@ namespace Giraffe
         static void Main(string[] args)
         {
             string phrase = "Giraffe Academy";
-            Console.WriteLine(phrase.Contains("Academy")); // Contains degerin icinde var mı True or false
+            Console.WriteLine(phrase[0]); // 1. karakter ne 0 1 2 3 diye karakter gider output G
 
             Console.ReadLine();
         }
