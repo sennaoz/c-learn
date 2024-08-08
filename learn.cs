@@ -10,11 +10,12 @@ namespace Giraffe
     {
         static void Main(string[] args)
         {
-            string phrase="Giraffe Acedemy";
-            Console.WriteLine(phrase);
+            string phrase = "Giraffe Acedemy";
+            Console.WriteLine(phrase.Length); //.Length sarakter sayısını gosterir 
 
 
             Console.ReadLine();
         }
 
     }
+}
