@@ -11,7 +11,7 @@ namespace Giraffe
         static void Main(string[] args)
         {
             string phrase = "Giraffe Academy";
-            Console.WriteLine(phrase.IndexOf("A")); // kacıncı indexte başlıyor eger olmayan bir sey ise -1
+            Console.WriteLine(phrase.Substring(8,3)); // 8.degerden sonra 3 degeri yazdır
 
             Console.ReadLine();
         }
