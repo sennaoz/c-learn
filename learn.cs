@@ -11,9 +11,8 @@ namespace Giraffe
         static void Main(string[] args)
         {
             string phrase = "Giraffe Acedemy";
-            Console.WriteLine(phrase.Length); //.Length sarakter sayısını gosterir 
-
-
+            Console.WriteLine(phrase.ToUpper()); // ToUpper butun harfleri buyutur
+            
             Console.ReadLine();
         }
 
