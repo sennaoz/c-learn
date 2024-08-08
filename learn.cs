@@ -10,8 +10,8 @@ namespace Giraffe
     {
         static void Main(string[] args)
         {
-            string phrase = "Giraffe Acedemy";
-            Console.WriteLine(phrase.ToLower()); // ToUpper butun harfleri kucutur
+            string phrase = "Giraffe Academy";
+            Console.WriteLine(phrase.Contains("Academy")); // Contains degerin icinde var mı True or false
 
             Console.ReadLine();
         }
