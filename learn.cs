@@ -11,20 +11,10 @@ namespace Giraffe
         static void Main(string[] args)
         {
 
-            string phrase = "Acedemy";
-            char grade = 'A';  //tek tırnak char oldugunda
-            int age = 15;
-            double gpa = 3.5;  // float double decimal ayrıntıya doğru gider
-            bool isMale = true;
+            Console.WriteLine("Giraffe\nAcademy");// \n bir satır atlama
 
-            Console.WriteLine(phrase);
-            Console.WriteLine(grade);
-            Console.WriteLine(age);
-            Console.WriteLine(gpa);
-            Console.WriteLine(isMale);
 
             Console.ReadLine();
         }
 
     }
-}
