@@ -11,12 +11,17 @@ namespace Giraffe
         static void Main(string[] args)
         {
 
-            string characterName = "Sena";
-            int characterAge = 19;
-            Console.WriteLine("There once was a woman named " + characterName);
-            Console.WriteLine("She was " + characterAge + " years old");
-            Console.WriteLine("She realy liked the name " + characterName);
-            Console.WriteLine("But didn't kike being " + characterAge);
+            string phrase = "Acedemy";
+            char grade = 'A';  //tek tırnak char oldugunda
+            int age = 15;
+            double gpa = 3.5;  // float double decimal ayrıntıya doğru gider
+            bool isMale = true;
+
+            Console.WriteLine(phrase);
+            Console.WriteLine(grade);
+            Console.WriteLine(age);
+            Console.WriteLine(gpa);
+            Console.WriteLine(isMale);
 
             Console.ReadLine();
         }
