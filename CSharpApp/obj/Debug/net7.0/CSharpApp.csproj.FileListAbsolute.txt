@@ -1,0 +1,15 @@
+/Users/sena/c#learn/c-learn/CSharpApp/bin/Debug/net7.0/CSharpApp
+/Users/sena/c#learn/c-learn/CSharpApp/bin/Debug/net7.0/CSharpApp.deps.json
+/Users/sena/c#learn/c-learn/CSharpApp/bin/Debug/net7.0/CSharpApp.runtimeconfig.json
+/Users/sena/c#learn/c-learn/CSharpApp/bin/Debug/net7.0/CSharpApp.dll
+/Users/sena/c#learn/c-learn/CSharpApp/bin/Debug/net7.0/CSharpApp.pdb
+/Users/sena/c#learn/c-learn/CSharpApp/obj/Debug/net7.0/CSharpApp.csproj.AssemblyReference.cache
+/Users/sena/c#learn/c-learn/CSharpApp/obj/Debug/net7.0/CSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sena/c#learn/c-learn/CSharpApp/obj/Debug/net7.0/CSharpApp.AssemblyInfoInputs.cache
+/Users/sena/c#learn/c-learn/CSharpApp/obj/Debug/net7.0/CSharpApp.AssemblyInfo.cs
+/Users/sena/c#learn/c-learn/CSharpApp/obj/Debug/net7.0/CSharpApp.csproj.CoreCompileInputs.cache
+/Users/sena/c#learn/c-learn/CSharpApp/obj/Debug/net7.0/CSharpApp.dll
+/Users/sena/c#learn/c-learn/CSharpApp/obj/Debug/net7.0/refint/CSharpApp.dll
+/Users/sena/c#learn/c-learn/CSharpApp/obj/Debug/net7.0/CSharpApp.pdb
+/Users/sena/c#learn/c-learn/CSharpApp/obj/Debug/net7.0/CSharpApp.genruntimeconfig.cache
+/Users/sena/c#learn/c-learn/CSharpApp/obj/Debug/net7.0/ref/CSharpApp.dll
