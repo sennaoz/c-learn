@@ -10,16 +10,18 @@ namespace Giraffe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(5+4);
-            /* 
-            + toplama
-            - çıkarma
-            * çarpma
-            / bölme kalansız
-            % mod kalanından kaç
-            işlem önceliği var
-    
+             Console.WriteLine(Math.Abs);
+            /*
+             Math.Abs() mutlak değer
+             Math.Pow() karesi
+             Math.Sqrt() karekok
+             Math.Max( , ) maks sayısı verir
+             Math.Min( , ) min sayısı verir
+             Math.Round() odakılı sayıyı yuvarlar
+
+ 
              */
+             Console.ReadLine();
 
         }
 
