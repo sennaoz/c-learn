@@ -8,22 +8,20 @@ namespace Giraffe
 {
     class Program
     {
-        static void Main(string[] args)
+
+            static void Main(string[] args)
         {
-             Console.WriteLine(Math.Abs);
-            /*
-             Math.Abs() mutlak değer
-             Math.Pow() karesi
-             Math.Sqrt() karekok
-             Math.Max( , ) maks sayısı verir
-             Math.Min( , ) min sayısı verir
-             Math.Round() odakılı sayıyı yuvarlar
+     
+            Console.Write("enter your name: ");
+            string name = Console.ReadLine();
 
- 
-             */
-             Console.ReadLine();
+            Console.WriteLine("Hello " + name);
 
+           
+            Console.ReadLine();
         }
 
-    }
+     }
+
 }
+
